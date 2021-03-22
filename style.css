@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: forte;
+}
+#profile{
+    border-radius: 3%;
+}
+.section{
+    background-color: cyan;
+    border-width: thick;
+    border-color: darkblue;
+}
